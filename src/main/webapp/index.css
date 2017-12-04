@@ -1,0 +1,52 @@
+body {
+    font: 12px Tahoma, sans-serif;
+}
+
+header {
+    padding: 20px 0;
+}
+
+h1new {
+    font-size: 36px;
+    line-height: 120px;
+    margin: 20px;
+}
+
+.bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    cursor: pointer;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    /*color: #0f0c1e;*/
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #4e79a0;
+}
+
+.active {
+    background-color: #4e79a0;
+}
+
+.cellTable {
+    margin-top: 15px;
+    border-collapse: collapse;
+    width: 100%;
+    border-color: #0f0c1e;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
