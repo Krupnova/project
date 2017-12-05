@@ -64,7 +64,7 @@ public class RepeatWorkingTimeDialogBox extends DialogBox {
         }
 
         RadioButton currentWeekRadioButton = new RadioButton("selectedWeek", "Current week");
-        RadioButton nextWeekRadioButton = new RadioButton("selectedWeek", "Next week");
+        RadioButton nextWeekRadioButton = new RadioButton("selectedWeek", "Prev week");
 
         Grid employeeAndWeekGrid = new Grid(1, 3);
         employeeAndWeekGrid.setWidget(0, 0, employeesListBox);
