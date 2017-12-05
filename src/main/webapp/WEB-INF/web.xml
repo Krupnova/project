@@ -11,7 +11,7 @@
 
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
-        <url-pattern>/com.ncedu.nc_project.Application/service/*</url-pattern>
+        <url-pattern>/com.project.Application/service/*</url-pattern>
     </servlet-mapping>
 
 </web-app>
