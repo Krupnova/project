@@ -60,8 +60,8 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/project-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="nc_project/web/Web" />
-      <element id="gwt-compiler-output" facet="nc_project/gwt/GWT" />
+      <element id="javaee-facet-resources" facet="project/web/Web" />
+      <element id="gwt-compiler-output" facet="project/gwt/GWT" />
     </root>
   </artifact>
 </component>
