@@ -1,13 +1,13 @@
-package com.ncedu.nc_project.client.mainview.widgets;
+package com.project.client.mainview.widgets;
 
 import com.google.gwt.i18n.client.DateTimeFormat;
 import com.google.gwt.i18n.client.NumberFormat;
 import com.google.gwt.user.cellview.client.CellTable;
 import com.google.gwt.user.cellview.client.TextColumn;
-import com.ncedu.nc_project.shared.entities.EmployeeWeekInfo;
-import com.ncedu.nc_project.shared.entities.Roles;
-import com.ncedu.nc_project.shared.entities.UserLoginInfo;
-import com.ncedu.nc_project.shared.entities.WorkingTime;
+import com.project.shared.entities.EmployeeWeekInfo;
+import com.project.shared.entities.Roles;
+import com.project.shared.entities.UserLoginInfo;
+import com.project.shared.entities.WorkingTime;
 
 import java.util.Date;
 import java.util.List;

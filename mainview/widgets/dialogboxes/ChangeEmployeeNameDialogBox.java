@@ -1,14 +1,14 @@
-package com.ncedu.nc_project.client.mainview.widgets.dialogboxes;
+package com.project.client.mainview.widgets.dialogboxes;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.ui.*;
-import com.ncedu.nc_project.client.MainRestService;
-import com.ncedu.nc_project.client.mainview.widgets.EmployeeListBox;
-import com.ncedu.nc_project.shared.constants.ConstantsProvider;
-import com.ncedu.nc_project.shared.entities.Employee;
-import com.ncedu.nc_project.shared.entities.Status;
-import com.ncedu.nc_project.shared.entities.UserLoginInfo;
+import com.project.client.MainRestService;
+import com.project.client.mainview.widgets.EmployeeListBox;
+import com.project.shared.constants.ConstantsProvider;
+import com.project.shared.entities.Employee;
+import com.project.shared.entities.Status;
+import com.project.shared.entities.UserLoginInfo;
 import org.fusesource.restygwt.client.Method;
 import org.fusesource.restygwt.client.MethodCallback;
 

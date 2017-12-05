@@ -1,12 +1,12 @@
-package com.ncedu.nc_project.client.mainview.widgets.dialogboxes;
+package com.project.client.mainview.widgets.dialogboxes;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.ui.DialogBox;
 import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.PushButton;
 import com.google.gwt.user.client.ui.VerticalPanel;
-import com.ncedu.nc_project.client.MainRestService;
-import com.ncedu.nc_project.shared.entities.UserLoginInfo;
+import com.project.client.MainRestService;
+import com.project.shared.entities.UserLoginInfo;
 
 
 public class OptionsDialogBox extends DialogBox {

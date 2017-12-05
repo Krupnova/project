@@ -1,9 +1,9 @@
-package com.ncedu.nc_project.client.mainview.widgets;
+package com.project.client.mainview.widgets;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.ui.HorizontalPanel;
-import com.ncedu.nc_project.client.MainRestService;
-import com.ncedu.nc_project.shared.entities.WorkingDayInfo;
+import com.project.client.MainRestService;
+import com.project.shared.entities.WorkingDayInfo;
 import org.fusesource.restygwt.client.Method;
 import org.fusesource.restygwt.client.MethodCallback;
 

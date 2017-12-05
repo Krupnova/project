@@ -1,9 +1,9 @@
-package com.ncedu.nc_project.client.mainview.widgets.dialogboxes;
+package com.project.client.mainview.widgets.dialogboxes;
 
 import com.google.gwt.user.client.ui.DialogBox;
 import com.google.gwt.user.client.ui.PushButton;
 import com.google.gwt.user.client.ui.VerticalPanel;
-import com.ncedu.nc_project.shared.entities.UserLoginInfo;
+import com.project.shared.entities.UserLoginInfo;
 
 public class EditEmployeeDataDialogBox extends DialogBox {
 

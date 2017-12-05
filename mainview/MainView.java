@@ -1,4 +1,4 @@
-package com.ncedu.nc_project.client.mainview;
+package com.project.client.mainview;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.dom.client.BrowserEvents;
@@ -9,14 +9,14 @@ import com.google.gwt.event.dom.client.DoubleClickHandler;
 import com.google.gwt.user.client.Cookies;
 import com.google.gwt.user.client.ui.*;
 import com.google.gwt.view.client.CellPreviewEvent;
-import com.ncedu.nc_project.client.MainRestService;
-import com.ncedu.nc_project.client.loginview.LoginView;
-import com.ncedu.nc_project.client.mainview.widgets.EmployeeWeekInfoCellTable;
-import com.ncedu.nc_project.client.mainview.widgets.IntRangeListBox;
-import com.ncedu.nc_project.shared.entities.Employee;
-import com.ncedu.nc_project.shared.entities.EmployeeWeekInfo;
-import com.ncedu.nc_project.shared.entities.Roles;
-import com.ncedu.nc_project.shared.entities.UserLoginInfo;
+import com.project.client.MainRestService;
+import com.project.client.loginview.LoginView;
+import com.project.client.mainview.widgets.EmployeeWeekInfoCellTable;
+import com.project.client.mainview.widgets.IntRangeListBox;
+import com.project.shared.entities.Employee;
+import com.project.shared.entities.EmployeeWeekInfo;
+import com.project.shared.entities.Roles;
+import com.project.shared.entities.UserLoginInfo;
 import org.fusesource.restygwt.client.Defaults;
 import org.fusesource.restygwt.client.Method;
 import org.fusesource.restygwt.client.MethodCallback;

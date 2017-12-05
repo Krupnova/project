@@ -1,4 +1,4 @@
-package com.ncedu.nc_project.client.mainview.widgets;
+package com.project.client.mainview.widgets;
 
 import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Label;

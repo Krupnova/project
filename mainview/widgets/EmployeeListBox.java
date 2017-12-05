@@ -1,7 +1,7 @@
-package com.ncedu.nc_project.client.mainview.widgets;
+package com.project.client.mainview.widgets;
 
 import com.google.gwt.user.client.ui.ListBox;
-import com.ncedu.nc_project.shared.entities.Employee;
+import com.project.shared.entities.Employee;
 
 import java.util.List;
 

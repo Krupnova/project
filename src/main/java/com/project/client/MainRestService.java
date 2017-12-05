@@ -1,7 +1,6 @@
 package com.project.client;
 
 import com.project.shared.entities.*;
-import com.project.shared.entities.*;
 import org.fusesource.restygwt.client.MethodCallback;
 import org.fusesource.restygwt.client.RestService;
 
