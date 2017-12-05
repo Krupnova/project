@@ -11,12 +11,6 @@ import com.ncedu.nc_project.shared.utils.MD5Util;
 import org.fusesource.restygwt.client.Method;
 import org.fusesource.restygwt.client.MethodCallback;
 
-/**
- * A class that represents the form of a pop-up window
- * that implements the function of adding administrator
- *
- * @author Sekachkin Mikhail
- */
 public class AddAdminDialogBox extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

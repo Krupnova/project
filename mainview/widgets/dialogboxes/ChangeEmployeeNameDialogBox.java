@@ -15,12 +15,7 @@ import org.fusesource.restygwt.client.MethodCallback;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * A class that represents the form of a pop-up window
- * that implements the function of changed the name and surname of employee
- *
- * @author Sekachkin Mikhail
- */
+
 public class ChangeEmployeeNameDialogBox extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

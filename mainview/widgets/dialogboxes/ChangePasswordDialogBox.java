@@ -14,9 +14,6 @@ import com.ncedu.nc_project.shared.utils.MD5Util;
 import org.fusesource.restygwt.client.Method;
 import org.fusesource.restygwt.client.MethodCallback;
 
-/**
- * Created by Anton Zyuzin on 30.08.2017.
- */
 public class ChangePasswordDialogBox extends DialogBox {
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);
 

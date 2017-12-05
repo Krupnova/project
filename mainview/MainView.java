@@ -25,9 +25,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 
-/**
- * Created by Oleg Vinogradov on 16.05.2017.
- */
 public class MainView extends Composite {
 
     static {

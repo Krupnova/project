@@ -5,12 +5,6 @@ import com.google.gwt.user.client.ui.PushButton;
 import com.google.gwt.user.client.ui.VerticalPanel;
 import com.ncedu.nc_project.shared.entities.UserLoginInfo;
 
-/**
- * A class that represents the form of a pop-up window
- * that implements the function of editing the data of employee
- *
- * @author Sekachkin Mikhail
- */
 public class EditEmployeeDataDialogBox extends DialogBox {
 
     public EditEmployeeDataDialogBox(UserLoginInfo userLoginInfo) {

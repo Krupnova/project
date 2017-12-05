@@ -16,10 +16,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * Created by Nikita on 15.04.2017.
- */
-
 public class UpdateWorkingTimeDialogBox extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

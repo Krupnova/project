@@ -18,12 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * A class that represents the form of a pop-up window
- * that implements the function of changed the password of employee
- *
- * @author Sekachkin Mikhail
- */
+
 public class ChangeEmployeePassword extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

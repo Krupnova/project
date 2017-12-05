@@ -8,9 +8,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 import com.ncedu.nc_project.client.MainRestService;
 import com.ncedu.nc_project.shared.entities.UserLoginInfo;
 
-/**
- * Created by Anton Zyuzin on 30.08.2017.
- */
+
 public class OptionsDialogBox extends DialogBox {
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);
 

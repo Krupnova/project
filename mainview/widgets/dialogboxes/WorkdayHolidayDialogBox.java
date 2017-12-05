@@ -16,9 +16,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * Created by Елена on 13.05.2017.
- */
 public class WorkdayHolidayDialogBox extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

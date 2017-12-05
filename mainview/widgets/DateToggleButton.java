@@ -5,9 +5,6 @@ import com.google.gwt.user.client.ui.ToggleButton;
 
 import java.util.Date;
 
-/**
- * Created by Nikita on 31.03.2017.
- */
 
 public class DateToggleButton extends ToggleButton {
 

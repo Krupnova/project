@@ -16,9 +16,6 @@ import org.fusesource.restygwt.client.MethodCallback;
 
 import java.util.List;
 
-/**
- * Created by Nikita on 15.04.2017.
- */
 
 public class RemoveEmployeeDialogBox extends DialogBox {
 

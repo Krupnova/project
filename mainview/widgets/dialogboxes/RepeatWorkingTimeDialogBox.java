@@ -19,9 +19,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 
-/**
- * Created by apars on 12.05.2017.
- */
 public class RepeatWorkingTimeDialogBox extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

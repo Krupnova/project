@@ -13,13 +13,6 @@ import org.fusesource.restygwt.client.MethodCallback;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * A class that represents the form of a pop-up window
- * that implements the function of adding employee to a team
- *
- * @author Sekachkin Mikhail
- */
 public class AddEmployeeToTeamDialogBox extends DialogBox {
 
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);

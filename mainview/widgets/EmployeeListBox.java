@@ -5,10 +5,6 @@ import com.ncedu.nc_project.shared.entities.Employee;
 
 import java.util.List;
 
-/**
- * Created by Nikita on 31.03.2017.
- */
-
 public class EmployeeListBox extends ListBox {
 
     private List<Employee> employees;

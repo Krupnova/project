@@ -5,9 +5,6 @@ import com.google.gwt.event.dom.client.DomEvent;
 import com.google.gwt.i18n.client.NumberFormat;
 import com.google.gwt.user.client.ui.ListBox;
 
-/**
- * Created by Nikita on 07.04.2017.
- */
 
 public class IntRangeListBox extends ListBox {
 

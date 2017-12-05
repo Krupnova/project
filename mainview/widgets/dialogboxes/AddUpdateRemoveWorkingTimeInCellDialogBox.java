@@ -17,9 +17,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * Created by Anton on 04.09.2017.
- */
 public class AddUpdateRemoveWorkingTimeInCellDialogBox extends DialogBox {
     private MainRestService restService = (MainRestService) GWT.create(MainRestService.class);
 

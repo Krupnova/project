@@ -12,10 +12,6 @@ import com.ncedu.nc_project.shared.entities.WorkingTime;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by Nikita on 08.04.2017.
- */
-
 public class EmployeeWeekInfoCellTable extends CellTable<EmployeeWeekInfo> {
 
     private UserLoginInfo userLoginInfo;
